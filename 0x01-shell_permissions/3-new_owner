@@ -1,2 +1,2 @@
 #!/bin/bash
-why?
+sudo chown betty
